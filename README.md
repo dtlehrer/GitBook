@@ -4,8 +4,6 @@ The GenesysGo & Shadow Protocol gitbook serves as the consolidated resource for 
 
 This guide will be updated over time and the community should feel empowered to submit PRs for edits they would like to see or information they feel has been left out.
 
-[https://github.com/GenesysGo/GitBook](https://github.com/GenesysGo/GitBook) - Please feel free to drop edits here!
-
 {% hint style="success" %}
 **This is a living document and will be updated/edited over time.**
 
