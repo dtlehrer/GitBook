@@ -11,7 +11,7 @@ coverY: 0
 {% hint style="warning" %}
 The Shadow Net section is under construction and will be updated with greater detail over the coming weeks.&#x20;
 
-_Last Updated: May 7th, 2022_
+_Last Updated: May 9th, 2022_
 {% endhint %}
 
 The Shadow Net allows Solana builders the ability to create private instances of the Solana blockchain for as long or short a period of time as the user likes. These private instances, or "Shadow Realms", are enhanced by their integration with the Solana Wormhole in order to allow for full bridging of Mainnet tokens to and from the Shadow Realms.&#x20;
