@@ -14,7 +14,7 @@ The Shadow Operator program is currently undergoing Devnet testing and is open t
    * Applicants must apply through the processes outlined in this site and are subject to KYC checks. This is a Solana requirement.
 3. Once you have a server up and running you will need to configure it.
    * [https://github.com/Shadowy-Super-Coder-DAO](https://github.com/Shadowy-Super-Coder-DAO) - You may follow the instructions we've written out here or check out the Solana docs [https://docs.solana.com/](https://docs.solana.com)
-4. Follow the instructions to register your node - [https://dev.portal.genesysgo.net/#](https://dev.shadow.genesysgo.net/#)
+4. Follow the instructions to register your node - [https://dev.portal.genesysgo.net/#](https://dev.portal.genesysgo.net/#)
    * Upon registering your node you will be automatically connected to the upstream and your server will be serving Solana Mainnet RPC traffic!&#x20;
 
 {% embed url="https://discord.gg/genesysgo" %}
